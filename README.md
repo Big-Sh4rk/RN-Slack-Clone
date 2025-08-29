@@ -10,7 +10,7 @@ More screenshots [here](https://github.com/Big-Sh4rk/RN-Slack-Clone/tree/main/sc
 
 ```sh
 git clone git@github.com:Big-Sh4rk/RN-Slack-Clone.git
-cd slack-clone-react-native
+cd RN-Slack-Clone
 
 # Install npm dependencies
 yarn
